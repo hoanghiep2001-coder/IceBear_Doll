@@ -1,6 +1,6 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "ButtonAnim",
+  "_name": "Item_4_ChangeShop_Anim",
   "_objFlags": 0,
   "_native": "",
   "_duration": 0.6666666666666666,
@@ -13,16 +13,16 @@
         {
           "frame": 0,
           "value": [
-            0,
-            -270,
+            45,
+            -155,
             0
           ]
         },
         {
           "frame": 0.6666666666666666,
           "value": [
-            0,
-            -220,
+            130,
+            -155,
             0
           ]
         }
